@@ -6,7 +6,7 @@ Modern, animated developer portfolio built with Next.js, Framer Motion, and a sh
 
 > Replace the URL below with your deployed portfolio link.
 
-- **Live Portfolio**: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+- **Live Portfolio**: [https://aryancode27.vercel.app](https://aryancode27.vercel.app)
 
 ## Tech Stack
 
