@@ -23,7 +23,8 @@ export default function Contact() {
         </motion.h2>
 
         {/* SECONDARY CTA */}
-        <motion.div
+        <motion.a
+          href="mailto:aryancyber282h@gmail.com"
           whileHover={{ x: 6 }}
           transition={{ type: "spring", stiffness: 300, damping: 20 }}
           className="mt-8 flex items-center justify-center gap-4 cursor-pointer opacity-80 hover:opacity-100"
@@ -32,7 +33,7 @@ export default function Contact() {
           <span className="text-2xl font-medium">
             Start a conversation
           </span>
-        </motion.div>
+        </motion.a>
 
         {/* CONTEXT LINE (1% tone) */}
         <p className="mt-4 text-sm tracking-wide opacity-50">
